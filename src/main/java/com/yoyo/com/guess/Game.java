@@ -1,4 +1,4 @@
-package com.yoyo;
+package com.yoyo.com.guess;
 
 import java.util.Random;
 import java.util.Scanner;
